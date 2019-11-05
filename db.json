@@ -16,5 +16,22 @@
             "id": 4,
             "name": "Mazda"
         }
+    ],
+    "models": [
+        {
+            "id": 1,
+            "make_id": 1,
+            "name": "a1"
+        },
+        {
+            "id": 2,
+            "make_id": 1,
+            "name": "a3"
+        },
+        {
+            "id": 3,
+            "make_id": 1,
+            "name": "a6"
+        }
     ]
 }
